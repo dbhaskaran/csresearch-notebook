@@ -24,9 +24,9 @@ Note: Requires a lot of Patience, Practice and Coffee :)
 - What other people are saying about the paper?
 - Is it worth reading?
 
-#### Second Pass - Get the details - Comprehension
+#### Second Pass - Get the details
 - Make critical notes of the concepts in the paper.
-- Read the contents.
+- Read the contents. *What are the conclusions?*
 - Pay attention to diagrams, system models and graphs.
 - Get a High-Level understanding of the contents.
 - Understand and associate code or implementations.
@@ -35,7 +35,27 @@ Note: Requires a lot of Patience, Practice and Coffee :)
 - Understand the complex logic and math. (Use wikipedia or Google if you are lost)
 - Discuss the paper with other on [reddit](https://www.reddit.com/r/csbooks/), [stackexchange](https://cstheory.stackexchange.com/questions/1168/what-papers-should-everyone-read) and other forums.
 
-### Moving On: - Synthesize the details
+#### Paper Review: - Synthesize the details
+1. Summarize: Give a brief summary of the work in  your  own  words.
+	- What is the research problem the paper attempts to address?
+	- What are the claimed contributions of the paper?
+	- How do the authors substantiate their claims?
+	- What are the conclusions?
+2. Evaluate: Point out both the strengths and weaknesses of the work.
+	- Is the research problem significant?
+	- Are the contributions significant?
+	- Are the claims valid?
+3. Synthesize:
+	- What is the crux of the research problem?
+	- What are some alternative approaches to address the research problem?
+	- What is a better way to substantiate the claim of the authors?
+	- What is a good argument against the case made by the authors?
+	- How can the research results be improved?
+	- Can the research results be applied to another context?
+	- What are the open problems raised by this work?
+	- Bottomline: Can we do better than the authors?
+
+### Moving On:
 ---
 - Create or join meetup groups to discuss papers.
 - Teach papers you understand well to others.
