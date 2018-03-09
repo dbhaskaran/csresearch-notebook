@@ -12,30 +12,30 @@ Note: Requires a lot of Patience, Practice and Coffee :)
 
 ### The 3 Pass Approach:
 ---
-#### Zeroth Pass - Get a feel of the paper
+#### Zeroth Pass - Get a feel of the paper - 1 to 5 min
 - You are "somewhat" familiar with the broader idea. If not, read a book, tutorial or take a course to become familiar.
 - Get a feel of the paper
 
 
-#### First Pass - Get the big picture
+#### First Pass - Get the big picture - 5 to 60 min
 - Skim the Title, Abstract, Headings, Conclusion and Reference
 - Ignore the deeper Math and Complex logic.
 - Identify the aim of the paper. *What problem does it solve?*
 - What other people are saying about the paper?
 - Is it worth reading?
 
-#### Second Pass - Get the details
+#### Second Pass - Get the details - 30 min to 2 hrs
 - Make critical notes of the concepts in the paper.
 - Read the contents. *What are the conclusions?*
 - Pay attention to diagrams, system models and graphs.
 - Get a High-Level understanding of the contents.
 - Understand and associate code or implementations.
 
-#### Third Pass - Evaluate the details
+#### Third Pass - Evaluate the details - 30 min to 2 hrs
 - Understand the complex logic and math. (Use wikipedia or Google if you are lost)
 - Discuss the paper with other on [reddit](https://www.reddit.com/r/csbooks/), [stackexchange](https://cstheory.stackexchange.com/questions/1168/what-papers-should-everyone-read) and other forums.
 
-#### Paper Review: - Synthesize the details
+#### Paper Review: - Synthesize the details - 2 to 6 hours (or a few days based on complexity)
 1. Summarize: Give a brief summary of the work in  your  own  words.
 	- What is the research problem the paper attempts to address?
 	- What are the claimed contributions of the paper?

@@ -14,7 +14,7 @@ Day 7: [An experimental evaluation of the assumption of independence in multiver
 Day 8: [Arguments and Results]\
 Day 9: [A Laboratory For Teaching Object-Oriented Thinking]\
 Day 10: [Programming as an Experience: the inspiration for Self]\
-Day 11: \
+Day 11: [Anna KVS](https://databeta.wordpress.com/2018/03/09/anna-kvs/)\
 Day 12: \
 Day 13: \
 Day 14: \
@@ -24,7 +24,7 @@ Day 17: \
 Day 18: \
 Day 19: \
 Day 20: \
-Day 21: \
+Day 21:
 
 ---
 ### Reference
