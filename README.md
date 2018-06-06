@@ -15,7 +15,8 @@ Day 8: [Arguments and Results]\
 Day 9: [A Laboratory For Teaching Object-Oriented Thinking]\
 Day 10: [Programming as an Experience: the inspiration for Self]\
 Day 11: [Anna KVS](https://databeta.wordpress.com/2018/03/09/anna-kvs/)\
-Day 12: \
+Day 12: [Spotify – Large Scale, Low Latency, P2P
+Music-on-Demand Streaming](day12.md)\
 Day 13: \
 Day 14: \
 Day 15: \
